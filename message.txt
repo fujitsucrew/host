@@ -1,1 +1,1 @@
-Hey dude here is the cheat you asked for have fun! $url
+$message_data = @{"content" = "hey check out this new cheat i found hope you like it $url" } | ConvertTo-Json
